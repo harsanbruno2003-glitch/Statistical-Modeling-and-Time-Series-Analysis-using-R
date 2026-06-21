@@ -1,4 +1,4 @@
-]# 📊 Statistical Modeling and Time Series Analysis using R
+📊 Statistical Modeling and Time Series Analysis using R
 
 Three classic statistical problems solved end-to-end in R: a Generalized Linear Model, Bayesian parameter estimation, and ARIMA time series forecasting.
 
